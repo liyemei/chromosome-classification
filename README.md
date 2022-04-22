@@ -2,7 +2,7 @@
 chromosome classification using Inception Resnet V2
 
 # Dataset
-Please see  releases <dataset1.0)
+Please see  releases （dataset1.0)
 
 # Citation
 
